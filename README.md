@@ -1,6 +1,6 @@
 ## Hybrid-ARAG
 # Timneline 
-1-Implement Query Re-wrtiing 
+1-Implement Query Re-wrtiing  (Done)
 
 2-Implement Contextual Chunking 
 
