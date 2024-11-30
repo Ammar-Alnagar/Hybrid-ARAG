@@ -4,7 +4,7 @@
 
 2-Implement Contextual Chunking (Wip)
 
-3-Implement COT
+3-Implement COT (Wip)
 
 4-Implement Agentic Graph if Possible 
 
