@@ -2,7 +2,7 @@
 # Timneline 
 1-Implement Query Re-wrtiing  (Done)
 
-2-Implement Contextual Chunking 
+2-Implement Contextual Chunking (Wip)
 
 3-Implement COT
 
