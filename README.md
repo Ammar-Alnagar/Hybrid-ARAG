@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 3-Implement COT (Done)
 
-4-Implement Agentic Graph if Possible 
+4-Implement Agentic Graph if Possible (Wip)
 
 5-Integrate the usage of mamba2 models (Done)
 
