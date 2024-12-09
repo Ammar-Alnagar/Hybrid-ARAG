@@ -1,4 +1,4 @@
-1. Aya Expanse 32B (Ranked 1st)
+##1. Aya Expanse 32B (Ranked 1st)
 
 Aya Expanse outperforms the other models for several reasons:
 
