@@ -15,7 +15,7 @@ Strong Retrieval Precision and Recall: Aya Expanse achieves 92.0% precision and 
 Best Query Efficiency Ratio: At 0.8, this shows Aya Expanse is more efficient in query rewriting and retrieval optimization, making it a highly adaptable model.
 
 
-2. ChatGPT-4.0 (Ranked 2nd)
+## 2. ChatGPT-4.0 (Ranked 2nd)
 
 ChatGPT-4.0 follows closely behind:
 
@@ -32,7 +32,7 @@ Good Retrieval Precision and Recall: Achieving 88.9% precision and 90.1% recall 
 Query Efficiency Ratio: At 0.9, ChatGPT-4.0’s query efficiency is very good but slightly less optimal compared to Aya Expanse.
 
 
-3. Mamba2 Model (Ranked 3rd)
+## 3. Mamba2 Model (Ranked 3rd)
 
 The Mamba2 Model ranks third for the following reasons:
 
@@ -49,7 +49,7 @@ Good Retrieval Precision and Recall: Mamba2 achieves 86.7% precision and 88.5% r
 Query Efficiency Ratio: With a ratio of 1.0, the model is relatively efficient in query management but is not as optimal as Aya Expanse or ChatGPT-4.0.
 
 
-4. Claude Sonnet 3.5 (Ranked 4th)
+## 4. Claude Sonnet 3.5 (Ranked 4th)
 
 Claude Sonnet 3.5 places fourth due to:
 
@@ -66,7 +66,7 @@ Retrieval Precision and Recall: It achieves 85.1% precision and 87.2% recall, pe
 Query Efficiency Ratio: Its efficiency ratio of 1.1 shows that it is slightly less optimized in terms of query rewriting and retrieval optimization.
 
 
-5. Llama 3 70B (Ranked 5th)
+## 5. Llama 3 70B (Ranked 5th)
 
 Llama 3 70B ranks last among the models primarily due to:
 
