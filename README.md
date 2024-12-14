@@ -97,9 +97,13 @@ ________________________________________________________________________________
 
 3-Implement COT (Done)
 
-4-Implement Agentic RAG (Wip)
+4-Implement Agentic RAG (Done)
 
 5-Integrate the usage of mamba2 models (Done)
+
+6-Implement Multi-Agent structure (WIP)
+
+7-Research the possibility of Reinforcementlearning for the model ? can models learn to use appropriate methods ?
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
