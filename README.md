@@ -93,11 +93,11 @@ ________________________________________________________________________________
 
 1-Implement Query Re-wrtiing  (Done)
 
-2-Implement Contextual Chunking (Wip)
+2-Implement Contextual Chunking (Done)
 
 3-Implement COT (Done)
 
-4-Implement Agentic Graph if Possible (Wip)
+4-Implement Agentic RAG (Wip)
 
 5-Integrate the usage of mamba2 models (Done)
 
