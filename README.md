@@ -101,9 +101,9 @@ ________________________________________________________________________________
 
 5-Integrate the usage of mamba2 models (Done)
 
-6-Implement Multi-Agent structure (WIP)
+6-Implement Multi-Agent structure (Done)
 
-7-Research the possibility of Reinforcementlearning for the model ? can models learn to use appropriate methods ?
+7-Research the possibility of Reinforcementlearning for the model (Wip)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
