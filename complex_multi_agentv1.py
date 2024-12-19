@@ -1,17 +1,13 @@
 import os
-import re
-from typing import List, Dict, Any
 from dotenv import load_dotenv
 
 # LangChain and Core Imports
 from langchain_community.embeddings.ollama import OllamaEmbeddings
 from langchain_community.vectorstores.chroma import Chroma
-from langchain_core.documents import Document
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 
 # Agent and Tool Imports
-from langchain.agents import AgentExecutor, create_react_agent
 from langchain.tools import BaseTool
 from langchain.callbacks.manager import CallbackManagerForToolRun
 from langchain.memory import ConversationBufferMemory

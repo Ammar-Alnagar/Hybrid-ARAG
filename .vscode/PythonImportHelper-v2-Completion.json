@@ -1,0 +1,1279 @@
+[
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings.ollama",
+        "description": "langchain_community.embeddings.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores.chroma",
+        "description": "langchain_community.vectorstores.chroma",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.chroma",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models.ollama",
+        "description": "langchain_community.chat_models.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models.ollama",
+        "description": "langchain_community.chat_models.ollama",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "Groq",
+        "importPath": "groq",
+        "description": "groq",
+        "isExtraImport": true,
+        "detail": "groq",
+        "documentation": {}
+    },
+    {
+        "label": "Groq",
+        "importPath": "groq",
+        "description": "groq",
+        "isExtraImport": true,
+        "detail": "groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "RunnablePassthrough",
+        "importPath": "langchain.schema.runnable",
+        "description": "langchain.schema.runnable",
+        "isExtraImport": true,
+        "detail": "langchain.schema.runnable",
+        "documentation": {}
+    },
+    {
+        "label": "RunnablePassthrough",
+        "importPath": "langchain.schema.runnable",
+        "description": "langchain.schema.runnable",
+        "isExtraImport": true,
+        "detail": "langchain.schema.runnable",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain.schema.output_parser",
+        "description": "langchain.schema.output_parser",
+        "isExtraImport": true,
+        "detail": "langchain.schema.output_parser",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain.schema.output_parser",
+        "description": "langchain.schema.output_parser",
+        "isExtraImport": true,
+        "detail": "langchain.schema.output_parser",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentExecutor",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentExecutor",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentExecutor",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain.tools",
+        "description": "langchain.tools",
+        "isExtraImport": true,
+        "detail": "langchain.tools",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManagerForToolRun",
+        "importPath": "langchain.callbacks.manager",
+        "description": "langchain.callbacks.manager",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.manager",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManagerForToolRun",
+        "importPath": "langchain.callbacks.manager",
+        "description": "langchain.callbacks.manager",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.manager",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManagerForToolRun",
+        "importPath": "langchain.callbacks.manager",
+        "description": "langchain.callbacks.manager",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.manager",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManagerForToolRun",
+        "importPath": "langchain.callbacks.manager",
+        "description": "langchain.callbacks.manager",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.manager",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Load documents from a PDF file\nloader = DirectoryLoader(\"Data\", glob=\"**/*.pdf\")\nprint(\"PDF files loaded\")\ndocuments = loader.load()\nprint(f\"Number of documents loaded: {len(documents)}\")\n# Create embeddings using multilingual-e5-large model\nembeddings = HuggingFaceEmbeddings(\n    model_name=\"intfloat/multilingual-e5-large\",\n    model_kwargs={'device': device},",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "loader = DirectoryLoader(\"Data\", glob=\"**/*.pdf\")\nprint(\"PDF files loaded\")\ndocuments = loader.load()\nprint(f\"Number of documents loaded: {len(documents)}\")\n# Create embeddings using multilingual-e5-large model\nembeddings = HuggingFaceEmbeddings(\n    model_name=\"intfloat/multilingual-e5-large\",\n    model_kwargs={'device': device},\n    encode_kwargs={'normalize_embeddings': True}\n)",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "documents = loader.load()\nprint(f\"Number of documents loaded: {len(documents)}\")\n# Create embeddings using multilingual-e5-large model\nembeddings = HuggingFaceEmbeddings(\n    model_name=\"intfloat/multilingual-e5-large\",\n    model_kwargs={'device': device},\n    encode_kwargs={'normalize_embeddings': True}\n)\n# Create text splitter with Arabic-friendly settings\ntext_splitter = RecursiveCharacterTextSplitter(",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "embeddings = HuggingFaceEmbeddings(\n    model_name=\"intfloat/multilingual-e5-large\",\n    model_kwargs={'device': device},\n    encode_kwargs={'normalize_embeddings': True}\n)\n# Create text splitter with Arabic-friendly settings\ntext_splitter = RecursiveCharacterTextSplitter(\n    chunk_size=500,\n    chunk_overlap=50,\n    length_function=len,",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "text_splitter",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "text_splitter = RecursiveCharacterTextSplitter(\n    chunk_size=500,\n    chunk_overlap=50,\n    length_function=len,\n    add_start_index=True,\n    # Separators prioritized for Arabic text\n    separators=[\"\\n\\n\", \"\\n\", \".\", \"!\", \"?\", \"،\", \";\", \",\", \" \", \"\"]\n)\n# Split documents into chunks\ntexts = text_splitter.split_documents(documents)",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "texts = text_splitter.split_documents(documents)\n# Create vector store\nvectorstore = Chroma.from_documents(\n    documents=texts, \n    embedding=embeddings,\n    persist_directory=\"./db-KB\"\n)\nprint(\"Vector store created successfully\")",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "vectorstore",
+        "kind": 5,
+        "importPath": "Indexer",
+        "description": "Indexer",
+        "peekOfCode": "vectorstore = Chroma.from_documents(\n    documents=texts, \n    embedding=embeddings,\n    persist_directory=\"./db-KB\"\n)\nprint(\"Vector store created successfully\")",
+        "detail": "Indexer",
+        "documentation": {}
+    },
+    {
+        "label": "rag_with_query_rewrite",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def rag_with_query_rewrite():\n    def join_questions(input_dict):\n        return {\n            \"context\": input_dict[\"context\"],\n            \"question\": input_dict[\"rewritten_question\"],\n            \"original_question\": input_dict[\"original_question\"]\n        }\n    return (\n        {\n            \"original_question\": RunnablePassthrough(),",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "ask_question",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def ask_question(question):\n    print(\"\\nQuestion:\", question)\n    print(\"\\nالإجابة:\", end=\" \", flush=True)\n    for chunk in rag_chain.stream(question):\n        print(chunk, end=\"\", flush=True)\n    print(\"\\n\")\n# Example usage\nif __name__ == \"__main__\":\n    print(\"\\nWelcome! I'm your AI assistant. I'll understand your questions in English or Arabic and respond in Arabic.\")\n    while True:",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "embeddings = OllamaEmbeddings(model=\"nomic-embed-text\", show_progress=False)\n# Initialize vector store\ndb = Chroma(persist_directory=\"./db-mawared\",\n            embedding_function=embeddings)\n# Create retriever\nretriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "db = Chroma(persist_directory=\"./db-mawared\",\n            embedding_function=embeddings)\n# Create retriever\nretriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables\nload_dotenv()\nos.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "retriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables\nload_dotenv()\nos.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n# Initialize LLM\nllm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"GROQ_API_KEY\"]",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "os.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n# Initialize LLM\nllm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",\n    temperature=0,\n    max_tokens=None,\n    timeout=None,\n    max_retries=2,\n)\n# Create query rewriting prompt",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "llm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",\n    temperature=0,\n    max_tokens=None,\n    timeout=None,\n    max_retries=2,\n)\n# Create query rewriting prompt\nquery_rewrite_template = \"\"\"\nYou are an AI assistant helping to improve search queries.",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "query_rewrite_template",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "query_rewrite_template = \"\"\"\nYou are an AI assistant helping to improve search queries.\nYour task is to rewrite the given question to be more effective for semantic search.\nIf the input is in English, expand it in English. If it's in Arabic, expand it in both Arabic and English.\nGuidelines for rewriting:\n1. Expand key terms and concepts\n2. Include relevant synonyms\n3. Keep the core intent of the question\n4. Make it search-friendly\nOriginal question: {question}",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "query_rewrite_prompt",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "query_rewrite_prompt = ChatPromptTemplate.from_template(query_rewrite_template)\n# Create final RAG prompt template\ntemplate = \"\"\"\nYou are a knowledgeable AI assistant. Your role is to provide comprehensive answers based on the given context.\nIMPORTANT: You must ALWAYS respond in formal Arabic (العربية الفصحى), regardless of the language of the question.\nFollow these guidelines:\n1. ALWAYS write your response in Arabic, using proper Arabic grammar and punctuation\n2. Use clear, eloquent Arabic language (الفصحى)\n3. Be comprehensive yet concise\n4. If context is insufficient, ask for clarification in Arabic",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "template = \"\"\"\nYou are a knowledgeable AI assistant. Your role is to provide comprehensive answers based on the given context.\nIMPORTANT: You must ALWAYS respond in formal Arabic (العربية الفصحى), regardless of the language of the question.\nFollow these guidelines:\n1. ALWAYS write your response in Arabic, using proper Arabic grammar and punctuation\n2. Use clear, eloquent Arabic language (الفصحى)\n3. Be comprehensive yet concise\n4. If context is insufficient, ask for clarification in Arabic\n5. Maintain a friendly, professional tone in Arabic\n6. If you reference technical terms, provide both Arabic and English terms in your explanation",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_template(template)\n# Create the enhanced RAG chain with query rewriting\ndef rag_with_query_rewrite():\n    def join_questions(input_dict):\n        return {\n            \"context\": input_dict[\"context\"],\n            \"question\": input_dict[\"rewritten_question\"],\n            \"original_question\": input_dict[\"original_question\"]\n        }\n    return (",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "rag_chain",
+        "kind": 5,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "rag_chain = rag_with_query_rewrite()\n# Function to ask questions\ndef ask_question(question):\n    print(\"\\nQuestion:\", question)\n    print(\"\\nالإجابة:\", end=\" \", flush=True)\n    for chunk in rag_chain.stream(question):\n        print(chunk, end=\"\", flush=True)\n    print(\"\\n\")\n# Example usage\nif __name__ == \"__main__\":",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "load_documents",
+        "kind": 2,
+        "importPath": "contextual",
+        "description": "contextual",
+        "peekOfCode": "def load_documents(directory: str, glob_pattern: str = \"**/*.pdf\") -> List[Document]:\n    \"\"\"\n    Load documents from a specified directory with a glob pattern.\n    Args:\n        directory (str): Path to the directory containing documents\n        glob_pattern (str, optional): Pattern to match files. Defaults to PDF files.\n    Returns:\n        List[Document]: List of loaded documents\n    \"\"\"\n    loader = DirectoryLoader(",
+        "detail": "contextual",
+        "documentation": {}
+    },
+    {
+        "label": "create_contextual_text_splitter",
+        "kind": 2,
+        "importPath": "contextual",
+        "description": "contextual",
+        "peekOfCode": "def create_contextual_text_splitter(\n    chunk_size: int = 500, \n    chunk_overlap: int = 50, \n    language: str = 'arabic'\n) -> RecursiveCharacterTextSplitter:\n    \"\"\"\n    Create a context-aware text splitter with language-specific separators.\n    Args:\n        chunk_size (int): Maximum size of text chunks\n        chunk_overlap (int): Number of characters to overlap between chunks",
+        "detail": "contextual",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings",
+        "kind": 2,
+        "importPath": "contextual",
+        "description": "contextual",
+        "peekOfCode": "def create_embeddings(\n    model_name: str = \"intfloat/multilingual-e5-large\",\n    device: Optional[str] = None\n) -> HuggingFaceEmbeddings:\n    \"\"\"\n    Create embeddings using a specified model.\n    Args:\n        model_name (str): Hugging Face model for embeddings\n        device (str, optional): Compute device. Defaults to CUDA if available.\n    Returns:",
+        "detail": "contextual",
+        "documentation": {}
+    },
+    {
+        "label": "process_documents",
+        "kind": 2,
+        "importPath": "contextual",
+        "description": "contextual",
+        "peekOfCode": "def process_documents(\n    directory: str, \n    persist_directory: str = \"./db-KB\",\n    chunk_size: int = 500,\n    chunk_overlap: int = 50,\n    language: str = 'arabic'\n) -> Chroma:\n    \"\"\"\n    Complete document processing pipeline.\n    Args:",
+        "detail": "contextual",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "contextual",
+        "description": "contextual",
+        "peekOfCode": "def main():\n    # Example usage\n    vectorstore = process_documents(\n        directory=\"Data\", \n        persist_directory=\"./db-KB\",\n        chunk_size=500,\n        chunk_overlap=50,\n        language='arabic'\n    )\nif __name__ == \"__main__\":",
+        "detail": "contextual",
+        "documentation": {}
+    },
+    {
+        "label": "rag_with_cot_reasoning",
+        "kind": 2,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "def rag_with_cot_reasoning():\n    def join_questions(input_dict):\n        return {\n            \"context\": input_dict[\"context\"],\n            \"question\": input_dict[\"rewritten_question\"],\n            \"original_question\": input_dict[\"original_question\"]\n        }\n    query_rewrite_chain = (\n        query_rewrite_prompt\n        | llm",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "ask_question",
+        "kind": 2,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "def ask_question(question):\n    print(\"\\nالسؤال:\", question)\n    print(\"\\nعملية التفكير والإجابة:\", end=\" \", flush=True)\n    for chunk in rag_chain.stream(question):\n        print(chunk, end=\"\", flush=True)\n    print(\"\\n\")\n# Debugging function to show intermediate steps\ndef debug_reasoning(question):\n    print(\"\\n--- Debug: Reasoning Process ---\")\n    # Query Rewriting Step",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "debug_reasoning",
+        "kind": 2,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "def debug_reasoning(question):\n    print(\"\\n--- Debug: Reasoning Process ---\")\n    # Query Rewriting Step\n    rewrite_chain = (\n        query_rewrite_prompt\n        | llm\n        | StrOutputParser()\n    )\n    rewritten_query = rewrite_chain.invoke({\"question\": question})\n    print(\"1. Query Rewriting:\")",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "embeddings = OllamaEmbeddings(model=\"nomic-embed-text\", show_progress=False)\n# Initialize vector store\ndb = Chroma(persist_directory=\"./db-mawared\",\n            embedding_function=embeddings)\n# Create retriever\nretriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "db = Chroma(persist_directory=\"./db-mawared\",\n            embedding_function=embeddings)\n# Create retriever\nretriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables\nload_dotenv()\nos.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "retriever = db.as_retriever(\n    search_type=\"similarity\",\n    search_kwargs={\"k\": 5}\n)\n# Load environment variables\nload_dotenv()\nos.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n# Initialize LLM\nllm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"GROQ_API_KEY\"]",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "os.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n# Initialize LLM\nllm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",\n    temperature=0,\n    max_tokens=None,\n    timeout=None,\n    max_retries=2,\n)\n# Query Rewriting Prompt with Enhanced Reasoning",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "llm = ChatGroq(\n    model=\"llama-3.1-8b-instant\",\n    temperature=0,\n    max_tokens=None,\n    timeout=None,\n    max_retries=2,\n)\n# Query Rewriting Prompt with Enhanced Reasoning\nquery_rewrite_template = \"\"\"\nYou are an advanced AI query analysis assistant. Your task is to perform a deep, multi-step reasoning process to improve search queries.",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "query_rewrite_template",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "query_rewrite_template = \"\"\"\nYou are an advanced AI query analysis assistant. Your task is to perform a deep, multi-step reasoning process to improve search queries.\nReasoning Steps:\n1. Query Decomposition: Break down the original question into its core components\n2. Intent Analysis: Identify the underlying intent and potential implicit information\n3. Semantic Expansion: Generate semantically related terms and concepts\n4. Query Reformulation: Create a more precise, search-friendly version of the query\nGuidelines:\n- If the input is in English, expand in English\n- If the input is in Arabic, provide expansion in both Arabic and English",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "query_rewrite_prompt",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "query_rewrite_prompt = ChatPromptTemplate.from_template(query_rewrite_template)\n# Enhanced RAG Prompt with Chain of Thought (CoT) Reasoning\ntemplate = \"\"\"\nYou are a sophisticated AI assistant performing a comprehensive reasoning process.\nChain of Thought Reasoning:\n1. Context Analysis\n   - Carefully examine the retrieved context documents\n   - Identify key themes, concepts, and potential relationships\n   - Note any potential contextual nuances or implicit information\n2. Query Interpretation",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "template = \"\"\"\nYou are a sophisticated AI assistant performing a comprehensive reasoning process.\nChain of Thought Reasoning:\n1. Context Analysis\n   - Carefully examine the retrieved context documents\n   - Identify key themes, concepts, and potential relationships\n   - Note any potential contextual nuances or implicit information\n2. Query Interpretation\n   - Break down the original and rewritten questions\n   - Identify primary and secondary information needs",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_template(template)\n# Create the enhanced RAG chain with query rewriting and CoT reasoning\ndef rag_with_cot_reasoning():\n    def join_questions(input_dict):\n        return {\n            \"context\": input_dict[\"context\"],\n            \"question\": input_dict[\"rewritten_question\"],\n            \"original_question\": input_dict[\"original_question\"]\n        }\n    query_rewrite_chain = (",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "rag_chain",
+        "kind": 5,
+        "importPath": "COT&Reasoning",
+        "description": "COT&Reasoning",
+        "peekOfCode": "rag_chain = rag_with_cot_reasoning()\n# Function to ask questions with enhanced reasoning\ndef ask_question(question):\n    print(\"\\nالسؤال:\", question)\n    print(\"\\nعملية التفكير والإجابة:\", end=\" \", flush=True)\n    for chunk in rag_chain.stream(question):\n        print(chunk, end=\"\", flush=True)\n    print(\"\\n\")\n# Debugging function to show intermediate steps\ndef debug_reasoning(question):",
+        "detail": "COT&Reasoning",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentRetrievalTool",
+        "kind": 6,
+        "importPath": "Agents_v1",
+        "description": "Agents_v1",
+        "peekOfCode": "class DocumentRetrievalTool(BaseTool):\n    \"\"\"Custom tool for retrieving relevant documents\"\"\"\n    name = \"document_retrieval\"\n    description = \"Useful for retrieving relevant documents based on a query\"\n    def __init__(self, retriever):\n        super().__init__()\n        self.retriever = retriever\n    def _run(\n        self, \n        query: str, ",
+        "detail": "Agents_v1",
+        "documentation": {}
+    },
+    {
+        "label": "QueryReformulationTool",
+        "kind": 6,
+        "importPath": "Agents_v1",
+        "description": "Agents_v1",
+        "peekOfCode": "class QueryReformulationTool(BaseTool):\n    \"\"\"Tool for reformulating queries\"\"\"\n    name = \"query_reformulation\"\n    description = \"Reformulates user queries to improve search precision\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "Agents_v1",
+        "documentation": {}
+    },
+    {
+        "label": "create_rarag_agent",
+        "kind": 2,
+        "importPath": "Agents_v1",
+        "description": "Agents_v1",
+        "peekOfCode": "def create_rarag_agent(\n    embeddings, \n    retriever, \n    llm, \n    verbose: bool = True\n):\n    \"\"\"Create a RARAG Agent with advanced reasoning capabilities\"\"\"\n    # Initialize custom tools\n    document_tool = DocumentRetrievalTool(retriever)\n    query_reformulation_tool = QueryReformulationTool(llm)",
+        "detail": "Agents_v1",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_rarag_system",
+        "kind": 2,
+        "importPath": "Agents_v1",
+        "description": "Agents_v1",
+        "peekOfCode": "def initialize_rarag_system():\n    \"\"\"Initialize the entire RARAG system\"\"\"\n    # Load environment variables\n    load_dotenv()\n    os.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n    # Create embeddings\n    embeddings = OllamaEmbeddings(\n        model=\"nomic-embed-text\", \n        show_progress=False\n    )",
+        "detail": "Agents_v1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Agents_v1",
+        "description": "Agents_v1",
+        "peekOfCode": "def main():\n    \"\"\"Main interaction loop\"\"\"\n    print(\"\\nمرحباً! أنا مساعدك الذكي باستخدام وكيل متقدم للبحث والتفكير.\")\n    # Initialize RARAG system\n    rarag_agent = initialize_rarag_system()\n    while True:\n        user_question = input(\"\\nأدخل سؤالك (أو اكتب 'خروج' للإنهاء): \")\n        if user_question.lower() in ['quit', 'خروج']:\n            break\n        try:",
+        "detail": "Agents_v1",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentRetrievalAgent",
+        "kind": 6,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "class DocumentRetrievalAgent(BaseTool):\n    \"\"\"Specialized agent for document retrieval\"\"\"\n    name = \"document_retrieval_agent\"\n    description = \"Advanced document retrieval with contextual analysis\"\n    def __init__(self, retriever, llm):\n        super().__init__()\n        self.retriever = retriever\n        self.llm = llm\n    def _run(\n        self, ",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRewriteAgent",
+        "kind": 6,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "class QueryRewriteAgent(BaseTool):\n    \"\"\"Advanced query rewriting agent\"\"\"\n    name = \"query_rewrite_agent\"\n    description = \"Sophisticated query reformulation and expansion\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "ReasoningAgent",
+        "kind": 6,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "class ReasoningAgent(BaseTool):\n    \"\"\"Advanced reasoning and synthesis agent\"\"\"\n    name = \"reasoning_agent\"\n    description = \"Comprehensive reasoning and answer synthesis\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "ProofreadingAgent",
+        "kind": 6,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "class ProofreadingAgent(BaseTool):\n    \"\"\"Comprehensive proofreading and validation agent\"\"\"\n    name = \"proofreading_agent\"\n    description = \"Linguistic and factual validation\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        text: str, ",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveChainOfThoughtAgent",
+        "kind": 6,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "class RecursiveChainOfThoughtAgent(BaseTool):\n    \"\"\"Advanced Recursive Chain of Thought Agent\"\"\"\n    name = \"recursive_chain_of_thought_agent\"\n    description = \"Hierarchical problem decomposition and recursive reasoning\"\n    def __init__(self, llm, max_depth=3):\n        super().__init__()\n        self.llm = llm\n        self.max_depth = max_depth\n    def _run(\n        self, ",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "create_multi_agent_rag_system",
+        "kind": 2,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "def create_multi_agent_rag_system(\n    embeddings, \n    retriever, \n    llm, \n    verbose: bool = True\n):\n    \"\"\"Create a multi-agent RAG system with Recursive Chain of Thought\"\"\"\n    # Initialize specialized agents\n    document_retrieval_agent = DocumentRetrievalAgent(retriever, llm)\n    query_rewrite_agent = QueryRewriteAgent(llm)",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_multi_agent_rag_system",
+        "kind": 2,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "def initialize_multi_agent_rag_system():\n    \"\"\"Initialize the multi-agent RAG system\"\"\"\n    # Load environment variables\n    load_dotenv()\n    os.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n    # Create embeddings\n    embeddings = OllamaEmbeddings(\n        model=\"nomic-embed-text\", \n        show_progress=False\n    )",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "MultiagentWithR-COT",
+        "description": "MultiagentWithR-COT",
+        "peekOfCode": "def main():\n    \"\"\"Main interaction loop for Multi-Agent RAG System\"\"\"\n    print(\"\\n🤖 مرحباً! أنا نظام متعدد الوكلاء للذكاء الاصطناعي.\")\n    # Initialize Multi-Agent RAG system\n    multi_agent_rag = initialize_multi_agent_rag_system()\n    while True:\n        user_question = input(\"\\nأدخل سؤالك (أو اكتب 'خروج' للإنهاء): \")\n        if user_question.lower() in ['quit', 'خروج']:\n            break\n        try:",
+        "detail": "MultiagentWithR-COT",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentRetrievalAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class DocumentRetrievalAgent(BaseTool):\n    \"\"\"Specialized agent for document retrieval\"\"\"\n    name = \"document_retrieval_agent\"\n    description = \"Advanced document retrieval with contextual analysis\"\n    def __init__(self, retriever, llm):\n        super().__init__()\n        self.retriever = retriever\n        self.llm = llm\n    def _run(\n        self, ",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRewriteAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class QueryRewriteAgent(BaseTool):\n    \"\"\"Advanced query rewriting agent\"\"\"\n    name = \"query_rewrite_agent\"\n    description = \"Sophisticated query reformulation and expansion\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "ReasoningAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class ReasoningAgent(BaseTool):\n    \"\"\"Advanced reasoning and synthesis agent\"\"\"\n    name = \"reasoning_agent\"\n    description = \"Comprehensive reasoning and answer synthesis\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "ProofreadingAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class ProofreadingAgent(BaseTool):\n    \"\"\"Comprehensive proofreading and validation agent\"\"\"\n    name = \"proofreading_agent\"\n    description = \"Linguistic and factual validation\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        text: str, ",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveChainOfThoughtAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class RecursiveChainOfThoughtAgent(BaseTool):\n    \"\"\"Advanced Recursive Chain of Thought Agent\"\"\"\n    name = \"recursive_chain_of_thought_agent\"\n    description = \"Hierarchical problem decomposition and recursive reasoning\"\n    def __init__(self, llm, max_depth=3):\n        super().__init__()\n        self.llm = llm\n        self.max_depth = max_depth\n    def _run(\n        self, ",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "RLReinforcementAgent",
+        "kind": 6,
+        "importPath": "RLagent",
+        "description": "RLagent",
+        "peekOfCode": "class RLReinforcementAgent(BaseTool):\n    \"\"\"Reinforcement Learning Agent for RAG System Optimization\"\"\"\n    name = \"rl_reinforcement_agent\"\n    description = \"Adaptive learning and performance optimization\"\n    def __init__(self, llm, max_history=100):\n        super().__init__()\n        self.llm = llm\n        self.max_history = max_history\n        # Q-learning parameters\n        self.learning_rate = 0.1",
+        "detail": "RLagent",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentRetrievalAgent",
+        "kind": 6,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "class DocumentRetrievalAgent(BaseTool):\n    \"\"\"Specialized agent for document retrieval\"\"\"\n    name = \"document_retrieval_agent\"\n    description = \"Advanced document retrieval with contextual analysis\"\n    def __init__(self, retriever, llm):\n        super().__init__()\n        self.retriever = retriever\n        self.llm = llm\n    def _run(\n        self, ",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRewriteAgent",
+        "kind": 6,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "class QueryRewriteAgent(BaseTool):\n    \"\"\"Advanced query rewriting agent\"\"\"\n    name = \"query_rewrite_agent\"\n    description = \"Sophisticated query reformulation and expansion\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "ReasoningAgent",
+        "kind": 6,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "class ReasoningAgent(BaseTool):\n    \"\"\"Advanced reasoning and synthesis agent\"\"\"\n    name = \"reasoning_agent\"\n    description = \"Comprehensive reasoning and answer synthesis\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        query: str, ",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "ProofreadingAgent",
+        "kind": 6,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "class ProofreadingAgent(BaseTool):\n    \"\"\"Comprehensive proofreading and validation agent\"\"\"\n    name = \"proofreading_agent\"\n    description = \"Linguistic and factual validation\"\n    def __init__(self, llm):\n        super().__init__()\n        self.llm = llm\n    def _run(\n        self, \n        text: str, ",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "create_multi_agent_rag_system",
+        "kind": 2,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "def create_multi_agent_rag_system(\n    embeddings, \n    retriever, \n    llm, \n    verbose: bool = True\n):\n    \"\"\"Create a multi-agent RAG system\"\"\"\n    # Initialize specialized agents\n    document_retrieval_agent = DocumentRetrievalAgent(retriever, llm)\n    query_rewrite_agent = QueryRewriteAgent(llm)",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_multi_agent_rag_system",
+        "kind": 2,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "def initialize_multi_agent_rag_system():\n    \"\"\"Initialize the multi-agent RAG system\"\"\"\n    # Load environment variables\n    load_dotenv()\n    os.environ[\"GROQ_API_KEY\"] = os.getenv(\"GROQ_API\")\n    # Create embeddings\n    embeddings = OllamaEmbeddings(\n        model=\"nomic-embed-text\", \n        show_progress=False\n    )",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "complex_multi_agentv1",
+        "description": "complex_multi_agentv1",
+        "peekOfCode": "def main():\n    \"\"\"Main interaction loop for Multi-Agent RAG System\"\"\"\n    print(\"\\n🤖 مرحباً! أنا نظام متعدد الوكلاء للذكاء الاصطناعي.\")\n    # Initialize Multi-Agent RAG system\n    multi_agent_rag = initialize_multi_agent_rag_system()\n    while True:\n        user_question = input(\"\\nأدخل سؤالك (أو اكتب 'خروج' للإنهاء): \")\n        if user_question.lower() in ['quit', 'خروج']:\n            break\n        try:",
+        "detail": "complex_multi_agentv1",
+        "documentation": {}
+    }
+]
