@@ -1,124 +1,165 @@
-## 1. Aya Expanse 32B (Ranked 1st)
 
-Aya Expanse outperforms the other models for several reasons:
+---
 
-Highest CoT EM and F1 scores: With 83.0 for EM and 87.0 for F1, it shows strong reasoning abilities, capturing both accuracy and partial matches.
+Aya Expanse 32B: Leading the Pack
 
-Best Retrieval Hit Ratio: At 93.2%, Aya Expanse retrieves the most relevant context in comparison to the others. This implies better alignment between the model’s reasoning and the retrieved context.
+Model Rankings and Insights
 
-Lowest Latency: Aya Expanse achieves a latency of 1.7 seconds, which means it provides faster results compared to the others. In real-time applications, this speed gives Aya Expanse a distinct advantage.
+1. Aya Expanse 32B (Ranked 1st)
 
-Top Contextual Chunking performance: It excels in both Contextual Chunking EM (84.6) and Contextual Chunking F1 (88.5), suggesting it is highly efficient at understanding context and providing relevant answers.
+Aya Expanse dominates the leaderboard with superior performance across all key metrics:
 
-Strong Retrieval Precision and Recall: Aya Expanse achieves 92.0% precision and 93.4% recall, indicating it retrieves highly relevant information while maintaining a broad retrieval scope.
+Highest CoT EM and F1 Scores: Achieves an exceptional 83.0 EM and 87.0 F1, showcasing unparalleled reasoning capabilities with precise accuracy and partial match recognition.
 
-Best Query Efficiency Ratio: At 0.8, this shows Aya Expanse is more efficient in query rewriting and retrieval optimization, making it a highly adaptable model.
+Best Retrieval Hit Ratio: At 93.2%, it retrieves the most relevant context, ensuring seamless alignment between reasoning and retrieved knowledge.
 
+Lowest Latency: With a blazing-fast 1.7 seconds, Aya Expanse excels in real-time applications, setting the benchmark for speed.
 
-## 2. ChatGPT-4.0 (Ranked 2nd)
+Top Contextual Chunking Performance: Scoring 84.6 EM and 88.5 F1, it efficiently handles complex contexts, delivering precise and relevant answers.
 
-ChatGPT-4.0 follows closely behind:
+Outstanding Retrieval Precision and Recall: With 92.0% precision and 93.4% recall, it ensures highly relevant and comprehensive retrievals.
 
-Strong CoT EM and F1: With 82.1 EM and 86.4 F1, ChatGPT-4.0 performs excellently in reasoning tasks, though slightly lower than Aya Expanse.
+Best Query Efficiency Ratio (QER): At 0.8, Aya Expanse optimizes query rewriting and retrieval, making it highly efficient and adaptable.
 
-High Retrieval Hit Ratio: At 91.2%, its retrieval capabilities are robust, but not as good as Aya Expanse’s.
 
-Fast Latency: It performs in 1.9 seconds, which is very efficient but not the fastest.
 
-High Contextual Chunking Scores: The Contextual Chunking EM of 83.7 and Contextual Chunking F1 of 87.5 are competitive, showcasing ChatGPT-4.0’s strong comprehension and contextual understanding.
+---
 
-Good Retrieval Precision and Recall: Achieving 88.9% precision and 90.1% recall shows ChatGPT-4.0’s competence in retrieving relevant content.
+2. ChatGPT-4.0 (Ranked 2nd)
 
-Query Efficiency Ratio: At 0.9, ChatGPT-4.0’s query efficiency is very good but slightly less optimal compared to Aya Expanse.
+ChatGPT-4.0 closely follows, delivering robust performance:
 
+Strong CoT EM and F1 Scores: Scores 82.1 EM and 86.4 F1, excelling in reasoning tasks but slightly trailing Aya Expanse.
 
-## 3. Mamba2 Model (Ranked 3rd)
+High Retrieval Hit Ratio: Achieves 91.2%, showcasing reliable retrieval capabilities.
 
-The Mamba2 Model ranks third for the following reasons:
+Efficient Latency: Processes queries in 1.9 seconds, maintaining competitive speed.
 
-Solid CoT Performance: With CoT EM of 80.5 and CoT F1 of 84.8, it performs well but not as effectively as the top two models.
+Impressive Contextual Chunking: Scores 83.7 EM and 87.5 F1, demonstrating strong comprehension and contextual understanding.
 
-Strong Retrieval Hit Ratio: At 89.6%, Mamba2 performs well in retrieving relevant contexts, though it doesn’t match the best-performing models in retrieval.
+Good Retrieval Precision and Recall: Precision at 88.9% and recall at 90.1%, proving its competence in retrieving relevant content.
 
-Reasonable Latency: The model achieves a latency of 2.0 seconds, making it relatively fast but slower than Aya Expanse.
+QER: At 0.9, ChatGPT-4.0’s query efficiency is slightly less optimal compared to Aya Expanse.
 
-Contextual Chunking EM (82.4) and F1 (86.2): The Mamba2 model performs well in handling contextual information, but it lags behind both Aya Expanse and ChatGPT-4.0 in terms of accuracy and chunking efficiency.
 
-Good Retrieval Precision and Recall: Mamba2 achieves 86.7% precision and 88.5% recall, showing balanced retrieval capabilities.
 
-Query Efficiency Ratio: With a ratio of 1.0, the model is relatively efficient in query management but is not as optimal as Aya Expanse or ChatGPT-4.0.
+---
 
+3. Mamba2 Model (Ranked 3rd)
 
-## 4. Claude Sonnet 3.5 (Ranked 4th)
+The Mamba2 Model delivers solid performance but trails behind the leaders:
 
-Claude Sonnet 3.5 places fourth due to:
+CoT EM and F1: Scores 80.5 EM and 84.8 F1, showcasing good reasoning but lagging behind the top models.
 
-CoT Performance: CoT EM of 79.3 and CoT F1 of 83.2 are strong, but they lag behind the other models, especially Aya Expanse and ChatGPT-4.0.
+Strong Retrieval Hit Ratio: At 89.6%, it retrieves relevant contexts effectively, though not as efficiently as Aya Expanse.
 
-Good Retrieval Hit Ratio: At 88.9%, it performs well but falls behind the top contenders in terms of relevant context retrieval.
+Latency: Achieves a reasonable 2.0 seconds, slightly slower than Aya Expanse and ChatGPT-4.0.
 
-Decent Latency: With a latency of 2.1 seconds, it is slightly slower compared to other models in this ranking.
+Contextual Chunking Performance: Scores 82.4 EM and 86.2 F1, showing proficiency in understanding contextual information.
 
-Contextual Chunking: The EM of 81.0 and F1 of 85.5 suggest it handles contextual information effectively, but there’s room for improvement compared to the leaders.
+Balanced Precision and Recall: Precision of 86.7% and recall of 88.5% reflect solid retrieval capabilities.
 
-Retrieval Precision and Recall: It achieves 85.1% precision and 87.2% recall, performing adequately but not as robustly as the other models.
+QER: At 1.0, Mamba2 is efficient but not as optimized as the top two models.
 
-Query Efficiency Ratio: Its efficiency ratio of 1.1 shows that it is slightly less optimized in terms of query rewriting and retrieval optimization.
 
 
-## 5. Llama 3 70B (Ranked 5th)
+---
 
-Llama 3 70B ranks last among the models primarily due to:
+4. Claude Sonnet 3.5 (Ranked 4th)
 
-CoT Performance: With CoT EM of 78.4 and CoT F1 of 82.1, it lags behind Aya Expanse and other models in terms of reasoning and match quality.
+Claude Sonnet 3.5 is a reliable model but ranks below the competition:
 
-Retrieval Hit Ratio: At 87.5%, its context retrieval is the least effective, meaning it has a lower alignment with the necessary external knowledge.
+CoT Performance: Scores 79.3 EM and 83.2 F1, showing adequate reasoning but falling short of leaders.
 
-Latency: Llama 3 70B takes 2.3 seconds on average, which is reasonable but not as fast as Aya Expanse and ChatGPT-4.0.
+Good Retrieval Hit Ratio: At 88.9%, it performs well in retrieving context but lacks the precision of Aya Expanse and ChatGPT-4.0.
 
-Contextual Chunking EM (80.2) and F1 (84.3): Llama 3’s performance in these metrics is good but falls short compared to the more advanced models.
+Latency: Processes queries in 2.1 seconds, slightly slower than the other models.
 
-Retrieval Precision and Recall: It achieves 84.6% precision and 85.9% recall, both of which are the lowest in this group, indicating it doesn’t perform as well in retrieving relevant information.
+Contextual Chunking: Scores 81.0 EM and 85.5 F1, indicating effective but less optimal context handling.
 
-Query Efficiency Ratio: Its efficiency ratio of 1.2 shows a higher level of inefficiency compared to the other models, indicating a less optimized approach to query rewriting and retrieval.
+Retrieval Precision and Recall: Precision at 85.1% and recall at 87.2%, showing adequate retrieval capabilities.
 
+QER: At 1.1, Claude Sonnet 3.5 has room for improvement in query rewriting and retrieval optimization.
 
 
 
+---
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-## Hybrid-ARAG
+5. Llama 3 70B (Ranked 5th)
 
+Llama 3 70B ranks last due to its relatively lower performance:
 
+CoT Performance: Scores 78.4 EM and 82.1 F1, lagging behind in reasoning and match quality.
 
-1-Implement Query Re-wrtiing  (Done)
+Retrieval Hit Ratio: At 87.5%, it shows the lowest alignment with external knowledge.
 
-2-Implement Contextual Chunking (Done)
+Latency: Takes 2.3 seconds, slower than other models in the ranking.
 
-3-Implement COT (Done)
+Contextual Chunking: Scores 80.2 EM and 84.3 F1, performing adequately but below expectations.
 
-4-Implement Agentic RAG (Done)
+Precision and Recall: Precision at 84.6% and recall at 85.9%, the lowest among the group.
 
-5-Integrate the usage of mamba2 models (Done)
+QER: At 1.2, its query efficiency indicates room for optimization.
 
-6-Implement Multi-Agent structure (Done)
 
-7-Research the possibility of Reinforcementlearning for the model (Wip)
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+---
 
-## used models so far :
+Hybrid-ARAG: Techniques and Progress
 
-1-llama 3.1 70B
+The Hybrid-ARAG framework integrates advanced reasoning and retrieval techniques for superior performance.
 
-2-falcon mamba 2 & codestral mamba 
+Implemented Features:
 
-3-Aya Expanse 32B (best so far)
+1. Query Rewriting (Completed)
 
-4-Gpt 4o (Judge/Baseline)
 
-5- llama 3.3 70b
+2. Contextual Chunking (Completed)
 
-6-Qwen2.5 qwq
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+3. Chain-of-Thought (CoT) (Completed)
+
+
+4. Agentic Retrieval-Augmented Generation (RAG) (Completed)
+
+
+5. Graph-based RAG (Completed)
+
+
+6. Reinforced CoT (RCOT) (Completed)
+
+
+7. Multi-Agent Structure (Completed)
+
+
+8. Integration with Mamba2 Models (Completed)
+
+
+9. Reinforcement Learning Integration (Work in Progress)
+
+
+
+
+---
+
+Models Used So Far:
+
+1. Llama 3.1 70B
+
+
+2. Falcon Mamba 2 & Codestral Mamba
+
+
+3. Aya Expanse 32B (Best performer)
+
+
+4. ChatGPT-4.0 (Baseline/Judge)
+
+
+5. Llama 3.3 70B
+
+
+6. Qwen2.5 QWQ
+
+
+7. Meraj Mini Model (Experimental use)
